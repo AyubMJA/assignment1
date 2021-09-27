@@ -51,8 +51,8 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/Divisions">Divisions</a></li>
-                        <li><a runat="server" href="~/">Recent</a></li>
-                        <li><a runat="server" href="~/">NewScore</a></li>
+                        <li><a runat="server" href="~/Recent">Recent</a></li>
+                        <li><a runat="server" href="~/NewScore">NewScore</a></li>
                         <li><a runat="server" href="~/">Register</a></li>
                         <li><a runat="server" href="~/About">About</a></li>
                         <li><a runat="server" href="~/Contact">Contact</a></li>
